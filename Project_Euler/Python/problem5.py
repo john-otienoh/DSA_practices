@@ -17,3 +17,4 @@ def smallest_multiple(n: int) -> bool:
 for i in range(1, 10000):
     if (smallest_multiple(i)):
         print(i)
+        
